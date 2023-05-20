@@ -1,0 +1,369 @@
+Sr.No,Species Category,Scientific Name,English Name,Local Name,Min Temp,Max Temp,Mean Temp,Fish Temp In Category,Date,Time,Season,SST,CHL,Lat,Long
+14,SHRIMP,Acetesindicus,Paste shrimp,જવલો ,30,40,35,Group 1,05/03/2023,Morning,Season 1,31,1.2,20.6886558532714,69.033447265625
+14,SHRIMP,Acetesindicus,Paste shrimp,જવલો ,30,40,35,Group 1,12/10/2019,Morning,Season 2,32.5,4.2,21.52013588,68.19796753
+14,SHRIMP,Acetesindicus,Paste shrimp,જવલો ,30,40,35,Group 1,12/10/2019,Morning,Season 2,32.4,2.4,21.47856331,68.23973846
+6,SHRIMP,Metapenaeusaffinis,Indian prawn,મીડીયમ ,32,35,33.5,Group 1,05/03/2023,Morning,Season 1,31.3,0.5,22.4347648620605,67.278938293457
+6,SHRIMP,Metapenaeusaffinis,Indian prawn,મીડીયમ ,32,35,33.5,Group 1,05/11/2019,Afternoon,Season 2,31.4,4.7,20.56393433,69.15877533
+6,SHRIMP,Metapenaeusaffinis,Indian prawn,મીડીયમ ,32,35,33.5,Group 1,05/11/2019,Afternoon,Season 2,31.1,3.3,20.52235985,69.20054626
+38,LOBSTER,Penulirusornatus,Spiny lobster,ટીટણ,28,34,31,Group 1,05/03/2023,Morning,Season 1,31,2.9,20.8965263366699,68.8245773315429
+38,LOBSTER,Penulirusornatus,Spiny lobster,ટીટણ,28,34,31,Group 1,05/11/2019,Afternoon,Season 2,31.1,3.3,20.52235985,69.20054626
+38,LOBSTER,Penulirusornatus,Spiny lobster,ટીટણ,28,34,31,Group 1,05/11/2019,Afternoon,Season 2,31,2.6,20.48078537,69.24232483
+29,TUNA,Thunnustoggol,Long tail tuna,સેરવા ,29.5,30.5,30,Group 1,05/03/2023,Morning,Season 1,32,2.3,21.6448593139648,68.0726470947265
+29,TUNA,Thunnustoggol,Long tail tuna,સેરવા ,29.5,30.5,30,Group 1,07/10/2019,Afternoon,Season 2,29.9,0.5,21.35383987,68.36506653
+29,TUNA,Thunnustoggol,Long tail tuna,સેરવા ,29.5,30.5,30,Group 1,07/10/2019,Afternoon,Season 2,29.9,0.5,21.3122673,68.40683746
+22,THREAD FINS,Polynemusheptadactylus,Seven finger thread fin,શેરી ,28.5,29.3,28.9,Group 2,30/06/2019,2,Season 1,28.7,1.8,22.43476486,67.27893829
+22,THREAD FINS,Polynemusheptadactylus,Seven finger thread fin,શેરી ,28.5,29.3,28.9,Group 2,30/06/2019,2,Season 1,28.8,1.9,22.47633934,67.23715973
+22,THREAD FINS,Polynemusheptadactylus,Seven finger thread fin,શેરી ,28.5,29.3,28.9,Group 2,30/06/2019,2,Season 1,28.6,1.7,22.39319038,67.32070923
+83,CLUPEIDS,Ilishamegaloptera,Big eye ilisha,"કાટી, દોરારી કાટી  ",27.7,29.3,28.5,Group 2,09/12/2012,2,Season 1,27.8,1.8,22.43476486,67.27893829
+83,CLUPEIDS,Ilishamegaloptera,Big eye ilisha,"કાટી, દોરારી કાટી  ",27.7,29.3,28.5,Group 2,23/10/2012,2,Season 1,28.2,0.4,20.77180481,68.9499054
+83,CLUPEIDS,Ilishamegaloptera,Big eye ilisha,"કાટી, દોરારી કાટી  ",27.7,29.3,28.5,Group 2,23/10/2012,2,Season 1,28,0.6,20.73023033,68.99167633
+120,Other fish,Pristis microdon,Small toothed saw fish,"ચુરિયો,સુર્ય મગરું",25,32,28.5,Group 2,03/02/2010,2,Season 1,27.9,1,20.73023033,68.99167633
+120,Other fish,Pristis microdon,Small toothed saw fish,"ચુરિયો,સુર્ય મગરું",25,32,28.5,Group 2,03/02/2010,2,Season 1,28.3,1.1,20.68865585,69.03344727
+120,Other fish,Pristis microdon,Small toothed saw fish,"ચુરિયો,સુર્ય મગરું",25,32,28.5,Group 2,03/02/2010,2,Season 1,28.2,1,20.64708138,69.07522583
+87,CLUPEIDS,Coliadussumieri,Golden anchovy,મેંદલી  ,27.6,29.3,28.45,Group 2,04/08/2010,1,Season 1,28.8,1.7,22.31004333,67.40425873
+87,CLUPEIDS,Coliadussumieri,Golden anchovy,મેંદલી  ,27.6,29.3,28.45,Group 2,04/08/2010,1,Season 1,28.9,1.8,22.26846886,67.44602966
+87,CLUPEIDS,Coliadussumieri,Golden anchovy,મેંદલી  ,27.6,29.3,28.45,Group 2,04/08/2010,1,Season 1,29,1.7,22.22689438,67.48780823
+80,CAT FISH,Osteogeniosus militaries,Soldier catfish,"ગોજી, ખાગી",27,29.2,28.1,Group 2,03/02/2010,1,Season 1,27.9,1.1,20.85495186,68.8663559
+80,CAT FISH,Osteogeniosus militaries,Soldier catfish,"ગોજી, ખાગી",27,29.2,28.1,Group 2,10/09/2017,2,Season 2,28.9,1,22.43476486,67.27893829
+80,CAT FISH,Osteogeniosus militaries,Soldier catfish,"ગોજી, ખાગી",27,29.2,28.1,Group 2,04/10/2017,2,Season 2,28.2,0.3,20.77180481,68.9499054
+85,CLUPEIDS,Opisthopterustardoore,Tardoore,ખોટી કાટી ,26.8,29.3,28.05,Group 2,02/03/2010,1,Season 1,28.3,1.1,20.68865585,69.03344727
+85,CLUPEIDS,Opisthopterustardoore,Tardoore,ખોટી કાટી ,26.8,29.3,28.05,Group 2,02/10/2017,2,Season 2,28.1,2.2,21.1459713,68.57393646
+85,CLUPEIDS,Opisthopterustardoore,Tardoore,ખોટી કાટી ,26.8,29.3,28.05,Group 2,09/05/2018,2,Season 2,28.2,0.4,21.68643188,68.03086853
+107,Other fish,Lethrinus ornatus,Ornate emperor bream,ધમીલ,26.5,29.3,27.9,Group 2,02/03/2010,1,Season 1,28.2,0.9,20.56393433,69.15877533
+107,Other fish,Lethrinus ornatus,Ornate emperor bream,ધમીલ,26.5,29.3,27.9,Group 2,17/04/2012,1,Season 1,27.8,9.5,20.64708138,69.07522583
+107,Other fish,Lethrinus ornatus,Ornate emperor bream,ધમીલ,26.5,29.3,27.9,Group 2,11/10/2010,2,Season 2,28.1,0.2,21.56171036,68.15619659
+24,FLOUNDER,Psettodeserumei,Indian hailbat,હરિયો ,26.6,29.1,27.85,Group 2,02/03/2010,1,Season 1,27.8,1.1,20.93810081,68.7828064
+24,FLOUNDER,Psettodeserumei,Indian hailbat,હરિયો ,26.6,29.1,27.85,Group 2,23/08/2019,1,Season 2,28.2,0.4,20.48078537,69.24232483
+24,FLOUNDER,Psettodeserumei,Indian hailbat,હરિયો ,26.6,29.1,27.85,Group 2,24/08/2019,1,Season 2,27.9,0.2,21.43698883,68.28151703
+98,Flying fish,Cypselurus oligolepis ,Large scaled flying ,પાખિયા જીરા,26.3,29.3,27.8,Group 2,13/03/2010,1,Season 1,26.4,1,21.22911835,68.49038696
+98,Flying fish,Cypselurus oligolepis ,Large scaled flying ,પાખિયા જીરા,26.3,29.3,27.8,Group 2,03/12/2011,2,Season 2,27.7,2.6,21.43698883,68.28151703
+98,Flying fish,Cypselurus oligolepis ,Large scaled flying ,પાખિયા જીરા,26.3,29.3,27.8,Group 2,29/09/2018,2,Season 2,27.6,0.5,22.06059837,67.6548996
+7,SHRIMP,Metapenaeuskutchensis,Kutch prawn,"સુરજ બારી, કચ્છી ઝીંગા ",26.9,28.6,27.75,Group 2,07/09/2017,2,Season 2,27.8,3.6,20.85495186,68.8663559
+7,SHRIMP,Metapenaeuskutchensis,Kutch prawn,"સુરજ બારી, કચ્છી ઝીંગા ",26.9,28.6,27.75,Group 2,12/01/2018,2,Season 2,27.7,0.3,20.89652634,68.82457733
+7,SHRIMP,Metapenaeuskutchensis,Kutch prawn,"સુરજ બારી, કચ્છી ઝીંગા ",26.9,28.6,27.75,Group 2,12/01/2018,2,Season 2,27.3,0.5,20.85495186,68.8663559
+86,CLUPEIDS,Dussumeriaacuta,Rainbow sardine,તેલસ કાટી,25.9,29.3,27.6,Group 2,07/09/2017,2,Season 2,27.9,0.3,20.64708138,69.07522583
+86,CLUPEIDS,Dussumeriaacuta,Rainbow sardine,તેલસ કાટી,25.9,29.3,27.6,Group 2,26/11/2012,2,Season 2,27.5,1.1,22.06059837,67.6548996
+86,CLUPEIDS,Dussumeriaacuta,Rainbow sardine,તેલસ કાટી,25.9,29.3,27.6,Group 2,26/11/2012,2,Season 2,27.6,1,22.0190258,67.69667816
+10,SHRIMP,Penaeusmonodon,Tiger prawn,ટાઈગર ,25,30,27.5,Group 2,07/09/2017,2,Season 2,27.8,0.3,20.6055088,69.11699677
+10,SHRIMP,Penaeusmonodon,Tiger prawn,ટાઈગર ,25,30,27.5,Group 2,31/03/2015,2,Season 1,27.4,0.6,21.10439682,68.6157074
+10,SHRIMP,Penaeusmonodon,Tiger prawn,ટાઈગર ,25,30,27.5,Group 2,31/03/2015,2,Season 1,27.4,0.6,21.06282234,68.65748596
+66,CRAB,Scylla serrate,Mud crab,ઢેબરો કરચલો,25,30,27.5,Group 2,07/09/2017,2,Season 2,27.9,0.3,20.56393433,69.15877533
+66,CRAB,Scylla serrate,Mud crab,ઢેબરો કરચલો,25,30,27.5,Group 2,28/11/2015,2,Season 2,27.5,1.5,21.22911835,68.49038696
+66,CRAB,Scylla serrate,Mud crab,ઢેબરો કરચલો,25,30,27.5,Group 2,28/11/2015,2,Season 2,27.5,2,21.18754387,68.5321579
+58,RAYS,Mobuladiabolus,Devil ray,ટીમરી ,25.6,29.1,27.35,Group 2,21/12/2019,2,Season 2,26.1,0.8,21.76958084,67.94731903
+58,RAYS,Mobuladiabolus,Devil ray,ટીમરી ,25.6,29.1,27.35,Group 2,4/12/2017,2,Season 1,27.2,1.8,22.31004333,67.40425873
+58,RAYS,Mobuladiabolus,Devil ray,ટીમરી ,25.6,29.1,27.35,Group 2,4/12/2017,2,Season 1,27.2,1.8,22.26846886,67.44602966
+88,CLUPEIDS,Chirocentrusdorab,Silver bar,ડાય ,25.5,29.1,27.3,Group 2,21/12/2019,2,Season 2,26.2,0.9,21.72800636,67.9890976
+88,CLUPEIDS,Chirocentrusdorab,Silver bar,ડાય ,25.5,29.1,27.3,Group 2,12/10/2011,1,Season 2,27.2,1.1,20.68865585,69.03344727
+88,CLUPEIDS,Chirocentrusdorab,Silver bar,ડાય ,25.5,29.1,27.3,Group 2,12/10/2011,1,Season 2,27.3,0.9,20.64708138,69.07522583
+115,Other fish,Drepane punctala,Spotted sicklefish,દાફનિયો,25.5,29.1,27.3,Group 2,21/12/2019,2,Season 2,26.2,1,21.68643188,68.03086853
+115,Other fish,Drepane punctala,Spotted sicklefish,દાફનિયો,25.5,29.1,27.3,Group 2,11/30/2019,1,Season 2,27.2,1.1,22.22689438,67.48780823
+115,Other fish,Drepane punctala,Spotted sicklefish,દાફનિયો,25.5,29.1,27.3,Group 2,11/30/2019,1,Season 2,27.3,1.2,22.18532181,67.52957916
+20,THREAD FINS,Polynemustetradactylus,Four finger thread fin,"દારા, બાવા  ",25.2,29.3,27.25,Group 2,21/12/2019,2,Season 2,26.3,1.1,21.64485931,68.07264709
+20,THREAD FINS,Polynemustetradactylus,Four finger thread fin,"દારા, બાવા  ",25.2,29.3,27.25,Group 2,12/12/2018,1,Season 2,27.1,0.8,21.1459713,68.57393646
+20,THREAD FINS,Polynemustetradactylus,Four finger thread fin,"દારા, બાવા  ",25.2,29.3,27.25,Group 2,12/12/2018,1,Season 2,27.2,0.8,21.10439682,68.6157074
+15,RIBBON FISH,Lepturacanthussavala,Silver ribbonfish ,"બગા, સીલ્વર  બગા  ",25.3,29.1,27.2,Group 2,10/10/2017,2,Season 2,27.9,2.1,22.26846886,67.44602966
+15,RIBBON FISH,Lepturacanthussavala,Silver ribbonfish ,"બગા, સીલ્વર  બગા  ",25.3,29.1,27.2,Group 2,7/19/2017,2,Season 2,27.2,2.3,20.73023033,68.99167633
+15,RIBBON FISH,Lepturacanthussavala,Silver ribbonfish ,"બગા, સીલ્વર  બગા  ",25.3,29.1,27.2,Group 2,7/19/2017,2,Season 2,27,2.5,20.6055088,69.11699677
+39,LOBSTER,Thenusorientalis,Sand lobster,કાકો ,25.4,29,27.2,Group 2,10/10/2017,2,Season 2,27.8,2.8,22.22689438,67.48780823
+39,LOBSTER,Thenusorientalis,Sand lobster,કાકો ,25.4,29,27.2,Group 2,9/20/2018,2,Season 2,27.1,0.4,21.43698883,68.28151703
+39,LOBSTER,Thenusorientalis,Sand lobster,કાકો ,25.4,29,27.2,Group 2,9/20/2018,2,Season 2,27.2,0.4,21.39541435,68.32328796
+51,CROAKER,Otolithes cuvieri,Lesser tooth croaker,"સિલ્વર ધોમા, તુરી ",25.9,28.4,27.15,Group 2,10/10/2017,2,Season 2,27.8,2.2,22.18532181,67.52957916
+51,CROAKER,Otolithes cuvieri,Lesser tooth croaker,"સિલ્વર ધોમા, તુરી ",25.9,28.4,27.15,Group 2,3/28/2011,2,Season 1,27,1.7,20.93810081,68.7828064
+51,CROAKER,Otolithes cuvieri,Lesser tooth croaker,"સિલ્વર ધોમા, તુરી ",25.9,28.4,27.15,Group 2,3/28/2011,2,Season 1,27,2.8,20.89652634,68.82457733
+42,SHARK,Scoliodonlaticaudus,Spadenose shark,સાંધો ,25.3,29,27.15,Group 2,01/10/2017,2,Season 2,27.4,1.1,21.3122673,68.40683746
+42,SHARK,Scoliodonlaticaudus,Spadenose shark,સાંધો ,25.3,29,27.15,Group 2,8/15/2015,2,Season 3,27.1,0.2,20.56393433,69.15877533
+42,SHARK,Scoliodonlaticaudus,Spadenose shark,સાંધો ,25.3,29,27.15,Group 2,8/15/2015,2,Season 3,27.2,0.2,20.52235985,69.20054626
+64,SKATES,Rhynobatosgranulatus,Granulated shovel nose ray,"ધોંસ, ભુથર",25.2,29.1,27.15,Group 2,01/10/2017,2,Season 2,27.6,0.8,21.27069283,68.44861603
+64,SKATES,Rhynobatosgranulatus,Granulated shovel nose ray,"ધોંસ, ભુથર",25.2,29.1,27.15,Group 2,12/30/2018,1,Season 2,27,1.4,20.81337738,68.90812683
+64,SKATES,Rhynobatosgranulatus,Granulated shovel nose ray,"ધોંસ, ભુથર",25.2,29.1,27.15,Group 2,12/30/2018,1,Season 2,26.9,1.3,20.77180481,68.9499054
+101,Half beak / Full beak  ,strongylura,Full beak gar fish ,ચાંચિયાજીરા,25.1,29.2,27.15,Group 2,01/10/2017,2,Season 2,27.6,0.8,21.22911835,68.49038696
+101,Half beak / Full beak  ,strongylura,Full beak gar fish ,ચાંચિયાજીરા,25.1,29.2,27.15,Group 2,9/30/2019,1,Season 2,26.9,0.3,21.35383987,68.36506653
+101,Half beak / Full beak  ,strongylura,Full beak gar fish ,ચાંચિયાજીરા,25.1,29.2,27.15,Group 2,9/30/2019,1,Season 2,27,0.3,21.22911835,68.49038696
+52,CROAKER,Otolithesruber,Tiger tooth croaker,"મોસંબી ધોમા, ટી.ટી. ધોમા",25,29.1,27.05,Group 2,01/10/2017,2,Season 2,27.5,0.6,21.18754387,68.5321579
+52,CROAKER,Otolithesruber,Tiger tooth croaker,"મોસંબી ધોમા, ટી.ટી. ધોમા",25,29.1,27.05,Group 2,3/21/2010,2,Season 1,27.1,0.4,21.27069283,68.44861603
+52,CROAKER,Otolithesruber,Tiger tooth croaker,"મોસંબી ધોમા, ટી.ટી. ધોમા",25,29.1,27.05,Group 2,3/21/2010,2,Season 1,27,0.4,21.22911835,68.49038696
+53,CROAKER,Otolitjoidesbiauritus,Bronze croaker,"ગોયણી, કૂથ",24.8,29.3,27.05,Group 2,18/10/2017,2,Season 2,28.9,1.1,21.85272789,67.86377716
+53,CROAKER,Otolitjoidesbiauritus,Bronze croaker,"ગોયણી, કૂથ",24.8,29.3,27.05,Group 2,4/4/2012,2,Season 1,27,0.9,20.64708138,69.07522583
+53,CROAKER,Otolitjoidesbiauritus,Bronze croaker,"ગોયણી, કૂથ",24.8,29.3,27.05,Group 2,4/4/2012,2,Season 1,26.9,1.1,20.6055088,69.11699677
+118,Other fish,Trachinotus blochii,Pompano,ડુપ્લિકેટ પાપલેટ,24.8,29.3,27.05,Group 2,18/10/2017,2,Season 2,28.9,1,21.81115532,67.9055481
+118,Other fish,Trachinotus blochii,Pompano,ડુપ્લિકેટ પાપલેટ,24.8,29.3,27.05,Group 2,15/09/2010,1,Season 2,27.3,4.7,20.81337738,68.90812683
+118,Other fish,Trachinotus blochii,Pompano,ડુપ્લિકેટ પાપલેટ,24.8,29.3,27.05,Group 2,16/04/2019,1,Season 1,27.1,0.6,21.97745132,67.7384491
+108,Other fish,Lutjanus johni,Golden snapper,"રાજા,ગુલાલિયો",25.3,28.7,27,Group 2,18/10/2017,2,Season 2,28.9,1.4,21.76958084,67.94731903
+108,Other fish,Lutjanus johni,Golden snapper,"રાજા,ગુલાલિયો",25.3,28.7,27,Group 2,05/05/2011,1,Season 1,27.3,1.3,22.51791382,67.19538879
+108,Other fish,Lutjanus johni,Golden snapper,"રાજા,ગુલાલિયો",25.3,28.7,27,Group 2,05/05/2011,1,Season 1,27.3,1.5,22.47633934,67.23715973
+2,POMFRET,Pampuschinensis,Chinese pomfret,"ગઢીયો, કાફરી  ",24.8,29.2,27,Group 2,02/10/2018,2,Season 2,27.8,2.5,22.51791382,67.19538879
+2,POMFRET,Pampuschinensis,Chinese pomfret,"ગઢીયો, કાફરી  ",24.8,29.2,27,Group 2,03/06/2015,2,Season 1,27.1,0.9,21.68643188,68.03086853
+2,POMFRET,Pampuschinensis,Chinese pomfret,"ગઢીયો, કાફરી  ",24.8,29.2,27,Group 2,03/06/2015,2,Season 1,27.1,1,21.64485931,68.07264709
+116,Other fish,Sillago sihama,Silver sillago,"ગોકતી,ફીંગર લેડી",24.8,29.2,27,Group 2,02/10/2018,2,Season 2,27.9,2.6,22.47633934,67.23715973
+116,Other fish,Sillago sihama,Silver sillago,"ગોકતી,ફીંગર લેડી",24.8,29.2,27,Group 2,2/22/2015,1,Season 1,27.1,1.2,21.22911835,68.49038696
+116,Other fish,Sillago sihama,Silver sillago,"ગોકતી,ફીંગર લેડી",24.8,29.2,27,Group 2,2/22/2015,1,Season 1,27,1.2,21.18754387,68.5321579
+99,Half beak / Full beak  ,Hemiramphus far,Black barred half beak,"ચાંચિયાજીરા,કુંગા",24.7,29.3,27,Group 2,02/10/2018,2,Season 2,27.9,2.9,22.43476486,67.27893829
+99,Half beak / Full beak  ,Hemiramphus far,Black barred half beak,"ચાંચિયાજીરા,કુંગા",24.7,29.3,27,Group 2,18/11/2010,2,Season 2,27.4,1.1,21.35383987,68.36506653
+99,Half beak / Full beak  ,Hemiramphus far,Black barred half beak,"ચાંચિયાજીરા,કુંગા",24.7,29.3,27,Group 2,18/11/2010,2,Season 2,27.5,2.1,21.3122673,68.40683746
+109,Other fish,Lactarius lactarius,White fish,ખીતલી ,25.3,28.6,26.95,Group 2,26/09/2018,2,Season 2,27.9,0.8,21.81115532,67.9055481
+109,Other fish,Lactarius lactarius,White fish,ખીતલી ,25.3,28.6,26.95,Group 2,3/27/2018,1,Season 1,26.9,0.3,22.43476486,67.27893829
+109,Other fish,Lactarius lactarius,White fish,ખીતલી ,25.3,28.6,26.95,Group 2,3/27/2018,1,Season 1,26.9,0.4,22.47633934,67.23715973
+114,Other fish,Gerres filamentousus,Whipfin majorra,ટોંડ્યુ,24.8,29.1,26.95,Group 2,26/09/2018,2,Season 2,28,0.7,21.76958084,67.94731903
+114,Other fish,Gerres filamentousus,Whipfin majorra,ટોંડ્યુ,24.8,29.1,26.95,Group 2,12/30/2018,1,Season 2,26.7,0.9,20.85495186,68.8663559
+114,Other fish,Gerres filamentousus,Whipfin majorra,ટોંડ્યુ,24.8,29.1,26.95,Group 2,12/30/2018,1,Season 2,26.7,1,20.68865585,69.03344727
+50,CROAKER,Johniusdussumieri,Bearded croaker,"માથારા ધોમા, યલ્લો ધોમા ",24.7,29.1,26.9,Group 2,06/12/2012,2,Season 2,26.6,0.9,21.56171036,68.15619659
+50,CROAKER,Johniusdussumieri,Bearded croaker,"માથારા ધોમા, યલ્લો ધોમા ",24.7,29.1,26.9,Group 2,23/04/2015,2,Season 1,27,0.4,22.14374733,67.57135773
+50,CROAKER,Johniusdussumieri,Bearded croaker,"માથારા ધોમા, યલ્લો ધોમા ",24.7,29.1,26.9,Group 2,23/04/2015,2,Season 1,27.1,0.3,22.10217285,67.61312866
+63,SKATES,Rhynchobatusdjiddensis,"Guitar fish, White spotted shovel nose ray","ધોંસ, ભુથર  ",24.5,29.3,26.9,Group 2,06/12/2012,2,Season 2,26.6,0.7,21.52013588,68.19796753
+63,SKATES,Rhynchobatusdjiddensis,"Guitar fish, White spotted shovel nose ray","ધોંસ, ભુથર  ",24.5,29.3,26.9,Group 2,03/05/2011,2,Season 1,28.1,0.6,20.89652634,68.82457733
+63,SKATES,Rhynchobatusdjiddensis,"Guitar fish, White spotted shovel nose ray","ધોંસ, ભુથર  ",24.5,29.3,26.9,Group 2,03/05/2011,2,Season 1,28.1,0.5,20.85495186,68.8663559
+54,CROAKER,Protonibeadiscanthus,Jew fish,ધોલ,24.7,29,26.85,Group 2,21/12/2012,2,Season 2,26,0.9,21.93587685,67.78022766
+54,CROAKER,Protonibeadiscanthus,Jew fish,ધોલ,24.7,29,26.85,Group 2,15/05/2011,2,Season 1,27.3,0.9,20.97967529,68.74103546
+54,CROAKER,Protonibeadiscanthus,Jew fish,ધોલ,24.7,29,26.85,Group 2,15/05/2011,2,Season 1,27.3,0.8,20.93810081,68.7828064
+122,Other fish,Pseudotriacanthus strigilifer,Long-spined tripodfish,હેલીકોપ્ટર,24.7,29,26.85,Group 2,21/12/2012,2,Season 2,26,0.8,21.89430237,67.8219986
+122,Other fish,Pseudotriacanthus strigilifer,Long-spined tripodfish,હેલીકોપ્ટર,24.7,29,26.85,Group 2,20/03/2010,1,Season 1,27.2,1,21.93587685,67.78022766
+122,Other fish,Pseudotriacanthus strigilifer,Long-spined tripodfish,હેલીકોપ્ટર,24.7,29,26.85,Group 2,20/03/2010,1,Season 1,27.2,1.5,21.89430237,67.8219986
+97,Sole Fish,Zebrias quagga,Zebra sole ,જીભ,24.6,29.1,26.85,Group 2,21/12/2012,2,Season 2,26,0.9,21.85272789,67.86377716
+97,Sole Fish,Zebrias quagga,Zebra sole ,જીભ,24.6,29.1,26.85,Group 2,06/12/2010,1,Season 2,26.1,0.4,20.89652634,68.82457733
+97,Sole Fish,Zebrias quagga,Zebra sole ,જીભ,24.6,29.1,26.85,Group 2,06/12/2010,1,Season 2,26.1,0.4,20.85495186,68.8663559
+100,Half beak / Full beak  ,Hemiramphus lukei,Lutke’s half beak,તોરી,24.3,29.3,26.8,Group 2,23/05/2018,1,Season 1,28.8,1.2,21.76958084,67.94731903
+100,Half beak / Full beak  ,Hemiramphus lukei,Lutke’s half beak,તોરી,24.3,29.3,26.8,Group 2,19/03/2010,1,Season 1,26.8,0.5,21.3122673,68.40683746
+100,Half beak / Full beak  ,Hemiramphus lukei,Lutke’s half beak,તોરી,24.3,29.3,26.8,Group 2,19/03/2010,1,Season 1,26.8,0.5,21.27069283,68.44861603
+3,POMFRET,Formioniger,Black pormfret,"હલવો, અડદિયો  ",24.3,29.1,26.7,Group 2,23/05/2018,1,Season 1,28.8,1.1,21.72800636,67.9890976
+3,POMFRET,Formioniger,Black pormfret,"હલવો, અડદિયો  ",24.3,29.1,26.7,Group 2,05/12/2010,2,Season 2,26.2,21.8,22.10217285,67.61312866
+3,POMFRET,Formioniger,Black pormfret,"હલવો, અડદિયો  ",24.3,29.1,26.7,Group 2,05/12/2010,2,Season 2,26.2,20.2,22.06059837,67.6548996
+17,RIBBON FISH,Eupleurogrammusmuticus,Small head hair tail,રાસી બગી,24.3,29.1,26.7,Group 2,23/05/2018,1,Season 2,28.7,1.2,21.68643188,68.03086853
+17,RIBBON FISH,Eupleurogrammusmuticus,Small head hair tail,રાસી બગી,24.3,29.1,26.7,Group 2,07/12/2010,2,Season 2,26.1,19.6,22.0190258,67.69667816
+17,RIBBON FISH,Eupleurogrammusmuticus,Small head hair tail,રાસી બગી,24.3,29.1,26.7,Group 2,07/12/2010,2,Season 2,26.1,20.5,21.97745132,67.7384491
+106,Other fish,Upeneus sulphureus,Yellow goat fish,ખોટા લાલ માછલા,24.3,29.1,26.7,Group 2,27/02/2010,1,Season 1,25.1,1.8,21.35383987,68.36506653
+106,Other fish,Upeneus sulphureus,Yellow goat fish,ખોટા લાલ માછલા,24.3,29.1,26.7,Group 2,01/12/2017,2,Season 2,26.2,3.7,21.97745132,67.7384491
+106,Other fish,Upeneus sulphureus,Yellow goat fish,ખોટા લાલ માછલા,24.3,29.1,26.7,Group 2,01/12/2017,2,Season 2,26.1,2.4,21.89430237,67.8219986
+60,RAYS,Rhinopterajavanica,Cownose ray,બુર ,24.2,29.2,26.7,Group 2,27/02/2010,1,Season 1,25.2,1.9,21.3122673,68.40683746
+60,RAYS,Rhinopterajavanica,Cownose ray,બુર ,24.2,29.2,26.7,Group 2,30/03/2015,2,Season 1,26.7,0.5,22.14374733,67.57135773
+60,RAYS,Rhinopterajavanica,Cownose ray,બુર ,24.2,29.2,26.7,Group 2,30/03/2015,2,Season 1,26.7,0.5,22.10217285,67.61312866
+92,CARANGIDS,Scomberoidescommesonnoanus,Talang queen fish,સગ ,24.2,29.1,26.65,Group 2,21/11/2015,2,Season 2,28.3,1,21.93587685,67.78022766
+92,CARANGIDS,Scomberoidescommesonnoanus,Talang queen fish,સગ ,24.2,29.1,26.65,Group 2,24/11/2012,2,Season 2,26.7,0.9,21.72800636,67.9890976
+92,CARANGIDS,Scomberoidescommesonnoanus,Talang queen fish,સગ ,24.2,29.1,26.65,Group 2,24/11/2012,2,Season 2,26.6,1,21.68643188,68.03086853
+94,BARRACUDA,Sphyraenaobtusata,Obtuse barracuda,જીરા ,24.1,29.2,26.65,Group 2,21/11/2015,2,Season 2,28.3,1.1,21.89430237,67.8219986
+94,BARRACUDA,Sphyraenaobtusata,Obtuse barracuda,જીરા ,24.1,29.2,26.65,Group 2,14/12/2018,2,Season 2,26.3,0.6,21.68643188,68.03086853
+94,BARRACUDA,Sphyraenaobtusata,Obtuse barracuda,જીરા ,24.1,29.2,26.65,Group 2,14/12/2018,2,Season 2,26.4,0.6,21.64485931,68.07264709
+95,BARRACUDA,Sphyraenajello,"Gaint sea pike, Barracuda","જીરો,કુંગા ",24.1,29.2,26.65,Group 2,21/11/2015,2,Season 2,28.3,1,21.85272789,67.86377716
+95,BARRACUDA,Sphyraenajello,"Gaint sea pike, Barracuda","જીરો,કુંગા ",24.1,29.2,26.65,Group 2,31/03/2019,2,Season 1,26.1,2.8,21.89430237,67.8219986
+95,BARRACUDA,Sphyraenajello,"Gaint sea pike, Barracuda","જીરો,કુંગા ",24.1,29.2,26.65,Group 2,31/03/2019,2,Season 1,26,3.5,21.85272789,67.86377716
+75,GRUNTERS&SWEET LIPS,Diagrammapictum,Painted sweet lip ,આંદર ,24.1,29.1,26.6,Group 2,21/11/2015,2,Season 2,28.3,0.9,21.81115532,67.9055481
+75,GRUNTERS&SWEET LIPS,Diagrammapictum,Painted sweet lip ,આંદર ,24.1,29.1,26.6,Group 2,27/12/2018,2,Season 2,26.4,1.8,20.52235985,69.20054626
+75,GRUNTERS&SWEET LIPS,Diagrammapictum,Painted sweet lip ,આંદર ,24.1,29.1,26.6,Group 2,27/12/2018,2,Season 2,26.5,1.8,20.48078537,69.24232483
+55,SEER FISH,Scomberomorusguttatus,Spotted seer fish,છાપરી,23.6,29.1,26.35,Group 2,11/01/2019,1,Season 1,25.7,1.3,20.56393433,69.15877533
+55,SEER FISH,Scomberomorusguttatus,Spotted seer fish,છાપરી,23.6,29.1,26.35,Group 2,30/12/2018,2,Season 2,26,0.8,21.22911835,68.49038696
+55,SEER FISH,Scomberomorusguttatus,Spotted seer fish,છાપરી,23.6,29.1,26.35,Group 2,30/12/2018,2,Season 2,26.2,1.9,21.18754387,68.5321579
+89,CARANGIDS,Atropusatropus,Kuweshtravelly,નારીયેલા ,23.5,29.2,26.35,Group 2,11/01/2019,1,Season 1,25.6,1.3,20.52235985,69.20054626
+89,CARANGIDS,Atropusatropus,Kuweshtravelly,નારીયેલા ,23.5,29.2,26.35,Group 2,06/01/2019,2,Season 1,26.2,1.6,21.72800636,67.9890976
+89,CARANGIDS,Atropusatropus,Kuweshtravelly,નારીયેલા ,23.5,29.2,26.35,Group 2,06/01/2019,2,Season 1,26.3,1.7,21.68643188,68.03086853
+9,SHRIMP,Penaeusindius,Indian white prawn,વાઈટ જમ્બો  ,18,34.5,26.25,Group 2,11/01/2019,1,Season 1,25.7,1.5,20.48078537,69.24232483
+9,SHRIMP,Penaeusindius,Indian white prawn,વાઈટ જમ્બો  ,18,34.5,26.25,Group 2,26/03/2019,2,Season 1,26.6,2.3,22.10217285,67.61312866
+9,SHRIMP,Penaeusindius,Indian white prawn,વાઈટ જમ્બો  ,18,34.5,26.25,Group 2,26/03/2019,2,Season 1,26.5,1.5,22.06059837,67.6548996
+56,SEER FISH,Scomberomoruslineilatus,Streaked seer fish,છાપરી ,23.8,28.6,26.2,Group 2,09/01/2019,1,Season 1,24.9,1.1,20.85495186,68.8663559
+56,SEER FISH,Scomberomoruslineilatus,Streaked seer fish,છાપરી ,23.8,28.6,26.2,Group 2,24/01/2019,2,Season 1,26.3,3.9,21.64485931,68.07264709
+56,SEER FISH,Scomberomoruslineilatus,Streaked seer fish,છાપરી ,23.8,28.6,26.2,Group 2,24/01/2019,2,Season 1,26.5,3.4,21.60328484,68.11441803
+59,RAYS,Dasyatiszugei,Pale-edge sting ray,વરાળા ,23.2,29.1,26.15,Group 2,09/01/2019,1,Season 1,25,1.1,20.81337738,68.90812683
+59,RAYS,Dasyatiszugei,Pale-edge sting ray,વરાળા ,23.2,29.1,26.15,Group 2,28/12/2018,2,Season 2,26.2,0.5,21.35383987,68.36506653
+59,RAYS,Dasyatiszugei,Pale-edge sting ray,વરાળા ,23.2,29.1,26.15,Group 2,08/01/2019,2,Season 1,26.1,2.7,20.6055088,69.11699677
+61,RAYS,Aetomylaeusnichofii,Neiuhof`s Eagle ray,કારજ ,23.8,28.3,26.05,Group 2,09/01/2019,2,Season 1,25,1.1,20.77180481,68.9499054
+61,RAYS,Aetomylaeusnichofii,Neiuhof`s Eagle ray,કારજ ,23.8,28.3,26.05,Group 2,18/12/2018,2,Season 2,26.1,1.2,22.31004333,67.40425873
+61,RAYS,Aetomylaeusnichofii,Neiuhof`s Eagle ray,કારજ ,23.8,28.3,26.05,Group 2,18/12/2018,2,Season 2,26.4,1.3,22.26846886,67.44602966
+5,SHRIMP,Parapenaeopsisstylisfera,Kiddi prawn,"ટાઈની, કોલમી ",23.5,28.6,26.05,Group 2,06/02/2010,2,Season 1,26.5,1,20.48078537,69.24232483
+5,SHRIMP,Parapenaeopsisstylisfera,Kiddi prawn,"ટાઈની, કોલમી ",23.5,28.6,26.05,Group 2,14/12/2018,1,Season 2,26,1.1,22.22689438,67.48780823
+5,SHRIMP,Parapenaeopsisstylisfera,Kiddi prawn,"ટાઈની, કોલમી ",23.5,28.6,26.05,Group 2,14/12/2018,1,Season 2,26,1,22.18532181,67.52957916
+65,CRAB,Charybdis crucuata,Cross crab,લાલ કરચલો ,23.4,28.6,26,Group 2,06/02/2010,2,Season 1,24.5,2,22.51791382,67.19538879
+65,CRAB,Charybdis crucuata,Cross crab,લાલ કરચલો ,23.4,28.6,26,Group 2,17/12/2018,2,Season 2,26.6,0.8,21.3122673,68.40683746
+21,THREAD FINS,Polynemusindicus,Indian thread fin,રાવસ ,23.7,28.1,25.9,Group 3,01/03/2010,1,Season 1,26.6,9.5,22.14374733,67.57135773
+21,THREAD FINS,Polynemusindicus,Indian thread fin,રાવસ ,23.7,28.1,25.9,Group 3,26/12/2019,1,Season 2,25.9,1.1,21.64485931,68.07264709
+21,THREAD FINS,Polynemusindicus,Indian thread fin,રાવસ ,23.7,28.1,25.9,Group 3,26/12/2019,1,Season 2,25.9,1,21.60328484,68.11441803
+57,SEER FISH,Scomberomoruscommerson,Barred seer fish,સુરમાઈ,22.8,29,25.9,Group 3,01/03/2010,1,Season 1,25.4,8.9,21.97745132,67.7384491
+57,SEER FISH,Scomberomoruscommerson,Barred seer fish,સુરમાઈ,22.8,29,25.9,Group 3,22/02/2011,2,Season 1,25.8,0.7,20.81337738,68.90812683
+57,SEER FISH,Scomberomoruscommerson,Barred seer fish,સુરમાઈ,22.8,29,25.9,Group 3,22/02/2011,2,Season 1,25.8,0.8,20.77180481,68.9499054
+121,Other fish,Aluterus monoceros,Unicorn leatherjacket,ડોન,22.8,29,25.9,Group 3,01/03/2010,1,Season 1,25.4,4.9,21.93587685,67.78022766
+121,Other fish,Aluterus monoceros,Unicorn leatherjacket,ડોન,22.8,29,25.9,Group 3,09/01/2017,2,Season 1,25.8,11.8,20.52235985,69.20054626
+121,Other fish,Aluterus monoceros,Unicorn leatherjacket,ડોન,22.8,29,25.9,Group 3,09/01/2017,2,Season 1,25.8,12.8,20.48078537,69.24232483
+74,GRUNTERS&SWEET LIPS,Pomadasysargenteus,Silver grunt,ધુરકો ,23.2,28.5,25.85,Group 3,12/02/2018,1,Season 1,25.4,0.9,20.77180481,68.9499054
+74,GRUNTERS&SWEET LIPS,Pomadasysargenteus,Silver grunt,ધુરકો ,23.2,28.5,25.85,Group 3,28-02-2018,2,Season 1,25.8,5.3,21.6032848358154,68.1144180297851
+74,GRUNTERS&SWEET LIPS,Pomadasysargenteus,Silver grunt,ધુરકો ,23.2,28.5,25.85,Group 3,28-02-2018,2,Season 1,25.7,1.5,21.561710357666,68.1561965942382
+104,Other fish,Nemipterus japonicus,Thread fin breams,"રાનીફિસ,લાલમાછલા",22.8,28.7,25.75,Group 3,12/02/2018,1,Season 1,25.4,1.1,20.73023033,68.99167633
+104,Other fish,Nemipterus japonicus,Thread fin breams,"રાનીફિસ,લાલમાછલા",22.8,28.7,25.75,Group 3,09/03/2018,2,Season 2,25.8,0.9,22.51791382,67.19538879
+104,Other fish,Nemipterus japonicus,Thread fin breams,"રાનીફિસ,લાલમાછલા",22.8,28.7,25.75,Group 3,09/03/2018,2,Season 2,25.9,0.9,22.47633934,67.23715973
+90,CARANGIDS,Caranxsexfasciatus,Dusky travelly,નારીયેલા,22.3,28.9,25.6,Group 3,12/02/2018,1,Season 1,25.5,1,20.68865585,69.03344727
+90,CARANGIDS,Caranxsexfasciatus,Dusky travelly,નારીયેલા,22.3,28.9,25.6,Group 3,17-03-2019,2,Season 1,25.6,2.1,20.64708138,69.07522583
+90,CARANGIDS,Caranxsexfasciatus,Dusky travelly,નારીયેલા,22.3,28.9,25.6,Group 3,23-03-2019,2,Season 1,25.5,1.1,20.56393433,69.15877533
+34,CEPHALOPODS,Sepiellainermis,Spineless cuttlefish,"ઈંડા ગોટી, ગોટી ",22.5,28.6,25.55,Group 3,12/02/2018,1,Season 1,25.5,0.9,20.64708138,69.07522583
+34,CEPHALOPODS,Sepiellainermis,Spineless cuttlefish,"ઈંડા ગોટી, ગોટી ",22.5,28.6,25.55,Group 3,29-12-2019,2,Season 1,25.4,1,22.10217285,67.61312866
+34,CEPHALOPODS,Sepiellainermis,Spineless cuttlefish,"ઈંડા ગોટી, ગોટી ",22.5,28.6,25.55,Group 3,29-03-2019,2,Season 1,25.4,14,21.68643188,68.03086853
+76,REEF COD,Epinephelusdiacanthus,Six barred reef cod,લાલ વેખલું ,22.5,28.6,25.55,Group 3,14/02/2018,1,Season 1,25.3,0.8,20.52235985,69.20054626
+76,REEF COD,Epinephelusdiacanthus,Six barred reef cod,લાલ વેખલું ,22.5,28.6,25.55,Group 3,31-03-2019,2,Season 1,25.6,1.1,22.47633934,67.23715973
+76,REEF COD,Epinephelusdiacanthus,Six barred reef cod,લાલ વેખલું ,22.5,28.6,25.55,Group 3,13-12-2010,2,Season 2,25.6,1.8,20.97967529,68.74103546
+93,CARANGIDS,Carangoidesmalabaricus,Malabar travelly,ખડવા ,22.6,28.4,25.5,Group 3,24/03/2018,1,Season 1,25,1.1,21.76958084,67.94731903
+93,CARANGIDS,Carangoidesmalabaricus,Malabar travelly,ખડવા ,22.6,28.4,25.5,Group 3,14-03-2011,2,Season 1,25.6,0.3,20.97967529,68.74103546
+93,CARANGIDS,Carangoidesmalabaricus,Malabar travelly,ખડવા ,22.6,28.4,25.5,Group 3,22-12-2011,2,Season 1,25.4,1.3,22.14374733,67.57135773
+79,CAT FISH,Arius dussumieri,Dussumieri`s catfish,"ખાગો, ખાગી",22.5,28.2,25.35,Group 3,24/03/2018,1,Season 1,25.1,0.8,21.72800636,67.9890976
+79,CAT FISH,Arius dussumieri,Dussumieri`s catfish,"ખાગો, ખાગી",22.5,28.2,25.35,Group 3,18-03-2012,2,Season 1,25.3,1.9,20.68865585,69.03344727
+79,CAT FISH,Arius dussumieri,Dussumieri`s catfish,"ખાગો, ખાગી",22.5,28.2,25.35,Group 3,04/02/2015,2,Season 1,25.3,0.4,21.22911835,68.49038696
+11,SHRIMP,Penaeussemisulcatus,Flower prawn,ફુલાવર ,21.6,29.1,25.35,Group 3,24/03/2018,1,Season 1,25.1,0.8,21.68643188,68.03086853
+11,SHRIMP,Penaeussemisulcatus,Flower prawn,ફુલાવર ,21.6,29.1,25.35,Group 3,26/02/2015,2,Season 1,25.4,2.3,20.77180481,68.9499054
+11,SHRIMP,Penaeussemisulcatus,Flower prawn,ફુલાવર ,21.6,29.1,25.35,Group 3,26/02/2015,2,Season 1,25.3,2.4,20.73023033,68.99167633
+78,CAT FISH,Arius thalassinus,Giant catfish,"ખાગો, ખાગી ",22.1,28.3,25.2,Group 3,24/03/2018,1,Season 1,25.1,0.8,21.64485931,68.07264709
+78,CAT FISH,Arius thalassinus,Giant catfish,"ખાગો, ખાગી ",22.1,28.3,25.2,Group 3,17/03/2015,2,Season 1,25.2,13.2,22.26846886,67.44602966
+78,CAT FISH,Arius thalassinus,Giant catfish,"ખાગો, ખાગી ",22.1,28.3,25.2,Group 3,17/03/2015,2,Season 1,25.2,2.6,22.22689438,67.48780823
+33,CEPHALOPODS,Sepia prasadi,Cuttle fish,લોંગ બોન ,21.7,28.4,25.05,Group 3,27/03/2018,1,Season 1,25.6,1.2,22.14374733,67.57135773
+33,CEPHALOPODS,Sepia prasadi,Cuttle fish,લોંગ બોન ,21.7,28.4,25.05,Group 3,,,,,,,
+33,CEPHALOPODS,Sepia prasadi,Cuttle fish,લોંગ બોન ,21.7,28.4,25.05,Group 3,,,,,,,
+8,SHRIMP,Metapenaeusmonoceros,Speckled prawn,કપાસી ,22,28,25,Group 3,27/03/2018,1,Season 1,25.6,1.3,22.10217285,67.61312866
+8,SHRIMP,Metapenaeusmonoceros,Speckled prawn,કપાસી ,22,28,25,Group 3,,,,,,,
+8,SHRIMP,Metapenaeusmonoceros,Speckled prawn,કપાસી ,22,28,25,Group 3,,,,,,,
+40,SHARK,Carchariasmelnopteruts,Black shark,પતારી ,22,28,25,Group 3,27/03/2018,1,Season 1,25.7,1.4,22.06059837,67.6548996
+40,SHARK,Carchariasmelnopteruts,Black shark,પતારી ,22,28,25,Group 3,,,,,,,
+40,SHARK,Carchariasmelnopteruts,Black shark,પતારી ,22,28,25,Group 3,,,,,,,
+117,Other fish,Platycephalus indicus,Indian flathead,ગોખીણ,21.7,28.3,25,Group 3,27/03/2018,1,Season 1,25.7,1.4,22.0190258,67.69667816
+117,Other fish,Platycephalus indicus,Indian flathead,ગોખીણ,21.7,28.3,25,Group 3,,,,,,,
+117,Other fish,Platycephalus indicus,Indian flathead,ગોખીણ,21.7,28.3,25,Group 3,,,,,,,
+23,FLOUNDER,Pseudorhombusarsius,Large toothed flounder,"ખેતર, દાતારી ",21.4,28.5,24.95,Group 3,27/03/2018,1,Season 1,25.8,1.5,21.97745132,67.7384491
+23,FLOUNDER,Pseudorhombusarsius,Large toothed flounder,"ખેતર, દાતારી ",21.4,28.5,24.95,Group 3,,,,,,,
+23,FLOUNDER,Pseudorhombusarsius,Large toothed flounder,"ખેતર, દાતારી ",21.4,28.5,24.95,Group 3,,,,,,,
+81,CLUPEIDS,Tenualosailisha,Indian shad ,ચાકસી ,21.3,28,24.65,Group 3,01/01/2010,1,Season 1,25.8,1.6,21.72800636,67.9890976
+81,CLUPEIDS,Tenualosailisha,Indian shad ,ચાકસી ,21.3,28,24.65,Group 3,,,,,,,
+81,CLUPEIDS,Tenualosailisha,Indian shad ,ચાકસી ,21.3,28,24.65,Group 3,,,,,,,
+82,CLUPEIDS,Tenualosa toil,Chinese herring ,"પાલવી, પાલવો  ",21.3,28,24.65,Group 3,01/01/2010,1,Season 1,25.7,1.8,21.68643188,68.03086853
+82,CLUPEIDS,Tenualosa toil,Chinese herring ,"પાલવી, પાલવો  ",21.3,28,24.65,Group 3,,,,,,,
+82,CLUPEIDS,Tenualosa toil,Chinese herring ,"પાલવી, પાલવો  ",21.3,28,24.65,Group 3,,,,,,,
+28,TUNA,Thunnusalbacarus,Yellow fin tuna,વીર ગેદરા,20,29,24.5,Group 3,01/01/2010,1,Season 1,25.7,1.9,21.64485931,68.07264709
+28,TUNA,Thunnusalbacarus,Yellow fin tuna,વીર ગેદરા,20,29,24.5,Group 3,06/02/2015,2,Season 1,24.5,1.6,22.10217285,67.61312866
+28,TUNA,Thunnusalbacarus,Yellow fin tuna,વીર ગેદરા,20,29,24.5,Group 3,06/02/2015,2,Season 1,24.4,1.4,22.06059837,67.6548996
+84,CLUPEIDS,Sardinellalongiceps,Indian Oil sardline,એડ ,22.1,26.7,24.4,Group 3,01/01/2010,1,Season 1,25.7,2.1,21.60328484,68.11441803
+84,CLUPEIDS,Sardinellalongiceps,Indian Oil sardline,એડ ,22.1,26.7,24.4,Group 3,16/03/2012,2,Season 1,24.4,10.7,21.06282234,68.65748596
+84,CLUPEIDS,Sardinellalongiceps,Indian Oil sardline,એડ ,22.1,26.7,24.4,Group 3,16/03/2012,2,Season 1,24.4,10.7,21.02124786,68.6992569
+32,CEPHALOPODS,Sepia aculeate,Needle cuttlefish,દેડકા ,18.9,29.2,24.05,Group 3,01/01/2010,1,Season 1,25.7,1.7,21.56171036,68.15619659
+32,CEPHALOPODS,Sepia aculeate,Needle cuttlefish,દેડકા ,18.9,29.2,24.05,Group 3,14/01/2015,2,Season 1,23.9,2.6,22.10217285,67.61312866
+32,CEPHALOPODS,Sepia aculeate,Needle cuttlefish,દેડકા ,18.9,29.2,24.05,Group 3,25/01/2015,2,Season 1,24.1,1.5,22.31004333,67.40425873
+49,LIZARD FISH,Trachinocephalusmyops,snake fish,પટ્ટા ભુંગર,18.9,29,23.95,Group 3,17/01/2010,1,Season 1,23.7,1.9,22.51791382,67.19538879
+49,LIZARD FISH,Trachinocephalusmyops,snake fish,પટ્ટા ભુંગર,18.9,29,23.95,Group 3,17/03/2012,2,Season 1,24,0.7,21.97745132,67.7384491
+49,LIZARD FISH,Trachinocephalusmyops,snake fish,પટ્ટા ભુંગર,18.9,29,23.95,Group 3,11/03/2012,2,Season 1,23.9,1.9,21.18754387,68.5321579
+77,REEF COD,Epinephelustauvina,Grey reef cod,વેખલું,19.6,28.2,23.9,Group 3,17/01/2010,1,Season 1,23.7,2,22.47633934,67.23715973
+77,REEF COD,Epinephelustauvina,Grey reef cod,વેખલું,19.6,28.2,23.9,Group 3,09/03/2012,2,Season 1,23.9,6.6,20.97967529,68.74103546
+77,REEF COD,Epinephelustauvina,Grey reef cod,વેખલું,19.6,28.2,23.9,Group 3,09/03/2012,2,Season 1,23.8,6.4,20.93810081,68.7828064
+43,SHARK,Sphyrnalewini,Hammer head shark,નાથીયો ,18.7,29,23.85,Group 3,17/01/2010,1,Season 1,23.9,2,22.43476486,67.27893829
+43,SHARK,Sphyrnalewini,Hammer head shark,નાથીયો ,18.7,29,23.85,Group 3,09/03/2012,2,Season 1,23.9,7.1,20.77180481,68.9499054
+43,SHARK,Sphyrnalewini,Hammer head shark,નાથીયો ,18.7,29,23.85,Group 3,24/01/2011,1,Season 1,23.7,3.6,20.93810081,68.7828064
+46,LIZARD FISH,Sauridatumbil,Greater lizard fish,"ભુંગર, ચોર બુંમલા   ",18.4,29.1,23.75,Group 3,19/01/2010,1,Season 1,23.7,2.5,22.51791382,67.19538879
+46,LIZARD FISH,Sauridatumbil,Greater lizard fish,"ભુંગર, ચોર બુંમલા   ",18.4,29.1,23.75,Group 3,20/01/2011,2,Season 1,23.7,3.3,21.35383987,68.36506653
+46,LIZARD FISH,Sauridatumbil,Greater lizard fish,"ભુંગર, ચોર બુંમલા   ",18.4,29.1,23.75,Group 3,20/01/2011,2,Season 1,23.8,3.7,21.3122673,68.40683746
+103,Other fish,Mene maculata,Moon fish ,ચાંદફિસ,19.8,27.6,23.7,Group 3,19/01/2010,1,Season 1,23.7,2.5,22.47633934,67.23715973
+103,Other fish,Mene maculata,Moon fish ,ચાંદફિસ,19.8,27.6,23.7,Group 3,09/02/2017,1,Season 1,23.7,1.1,22.26846886,67.44602966
+103,Other fish,Mene maculata,Moon fish ,ચાંદફિસ,19.8,27.6,23.7,Group 3,24/01/2018,1,Season 1,23.8,1.6,21.60328484,68.11441803
+105,Other fish,Priacanthus hamrur,Bull’s eye,"દોલા,દોરારા",19.1,28.2,23.65,Group 3,07/01/2010,1,Season 1,26,0.6,20.52235985,69.20054626
+105,Other fish,Priacanthus hamrur,Bull’s eye,"દોલા,દોરારા",19.1,28.2,23.65,Group 3,8/24/2015,1,Season 2,23.6,,22.14374733,67.57135773
+105,Other fish,Priacanthus hamrur,Bull’s eye,"દોલા,દોરારા",19.1,28.2,23.65,Group 3,3/10/2015,1,Season 1,23.7,2,22.43476486,67.27893829
+68,CRAB,Portunussanguinolentrus,Three spotted crab,ટપકાવાળો કરચલો ,18.3,29,23.65,Group 3,07/01/2010,1,Season 1,26.1,0.5,20.48078537,69.24232483
+68,CRAB,Portunussanguinolentrus,Three spotted crab,ટપકાવાળો કરચલો ,18.3,29,23.65,Group 3,1/19/2015,1,Season 1,23.4,0.8,22.10217285,67.61312866
+68,CRAB,Portunussanguinolentrus,Three spotted crab,ટપકાવાળો કરચલો ,18.3,29,23.65,Group 3,3/21/2012,1,Season 1,23.6,1.5,22.06059837,67.6548996
+25,TUNA,Euthynnusaffinis,Little tuna,ગેદરા ,18,29,23.5,Group 3,18/01/2011,1,Season 1,23,0,21.52013588,68.19796753
+25,TUNA,Euthynnusaffinis,Little tuna,ગેદરા ,18,29,23.5,Group 3,2/22/2012,1,Season 1,23.4,8.5,21.68643188,68.03086853
+25,TUNA,Euthynnusaffinis,Little tuna,ગેદરા ,18,29,23.5,Group 3,2/22/2012,1,Season 1,23.4,18.1,21.60328484,68.11441803
+47,LIZARD FISH,Sauridaundosquami,"Brush tooth , lizard fish","ભુંગર, ચોર બુંમલા",18.8,27.9,23.35,Group 3,18/01/2011,1,Season 1,23.1,0,21.47856331,68.23973846
+47,LIZARD FISH,Sauridaundosquami,"Brush tooth , lizard fish","ભુંગર, ચોર બુંમલા",18.8,27.9,23.35,Group 3,2/18/2011,1,Season 1,23.4,3.4,22.26846886,67.44602966
+47,LIZARD FISH,Sauridaundosquami,"Brush tooth , lizard fish","ભુંગર, ચોર બુંમલા",18.8,27.9,23.35,Group 3,2/23/2011,1,Season 1,23.3,3.3,22.51791382,67.19538879
+45,SHARK,Rhincodontypus,Whale shark,બેરલ ,21,25,23,Group 3,18/01/2011,1,Season 1,23.2,0,21.43698883,68.28151703
+45,SHARK,Rhincodontypus,Whale shark,બેરલ ,21,25,23,Group 3,1/17/2017,2,Season 1,23.1,1.8,22.35161781,67.36248016
+45,SHARK,Rhincodontypus,Whale shark,બેરલ ,21,25,23,Group 3,2/12/2019,1,Season 1,23.1,2,22.51791382,67.19538879
+1,POMFRET,Pampusargenteus,Silver pomfret,"પાપલેટ, વિછુડો",9,37,23,Group 3,18/01/2011,1,Season 1,23.3,0,21.39541435,68.32328796
+1,POMFRET,Pampusargenteus,Silver pomfret,"પાપલેટ, વિછુડો",9,37,23,Group 3,1/26/2018,1,Season 1,22.9,1.1,22.18532181,67.52957916
+1,POMFRET,Pampusargenteus,Silver pomfret,"પાપલેટ, વિછુડો",9,37,23,Group 3,1/2/2018,1,Season 1,23,1.6,22.51791382,67.19538879
+69,SAIL FISH,istiophorusplatypterus,Sail fish ,ઘોડો ,18.2,27.7,22.95,Group 3,26/01/2011,1,Season 1,22.6,2,22.51791382,67.19538879
+69,SAIL FISH,istiophorusplatypterus,Sail fish ,ઘોડો ,18.2,27.7,22.95,Group 3,12/22/2019,2,Season 2,22.9,1.1,22.39319038,67.32070923
+69,SAIL FISH,istiophorusplatypterus,Sail fish ,ઘોડો ,18.2,27.7,22.95,Group 3,12/26/2019,2,Season 2,22.7,1.6,22.47633934,67.23715973
+113,Other fish,Terapon jarbua,Jarbua terapon,"ખતૂરો,હજામ",17.6,27.9,22.75,Group 3,26/01/2011,1,Season 1,22.7,1.8,22.47633934,67.23715973
+113,Other fish,Terapon jarbua,Jarbua terapon,"ખતૂરો,હજામ",17.6,27.9,22.75,Group 3,1/30/2019,1,Season 2,22.7,1.3,22.14374733,67.57135773
+113,Other fish,Terapon jarbua,Jarbua terapon,"ખતૂરો,હજામ",17.6,27.9,22.75,Group 3,3/11/2012,2,Season 1,22.7,3.3,22.51791382,67.19538879
+70,SAIL FISH,Makairaindica,Black marlin ,ઘોડો,15,30,22.5,Group 3,26/01/2011,1,Season 1,22.9,1.5,22.43476486,67.27893829
+70,SAIL FISH,Makairaindica,Black marlin ,ઘોડો,15,30,22.5,Group 3,2/10/2019,2,Season 1,22.3,1.8,22.47633934,67.23715973
+70,SAIL FISH,Makairaindica,Black marlin ,ઘોડો,15,30,22.5,Group 3,3/9/2017,2,Season 1,22.5,0.6,22.51791382,67.19538879
+48,LIZARD FISH,Sauridalongimanus,Long fin lizard fish,પેન્સીલ ભુંગર ,16.9,28,22.45,Group 3,26/01/2011,1,Season 1,23,1.8,22.39319038,67.32070923
+48,LIZARD FISH,Sauridalongimanus,Long fin lizard fish,પેન્સીલ ભુંગર ,16.9,28,22.45,Group 3,2/3/2019,2,Season 1,22.4,1.3,22.47633934,67.23715973
+48,LIZARD FISH,Sauridalongimanus,Long fin lizard fish,પેન્સીલ ભુંગર ,16.9,28,22.45,Group 3,2/3/2019,2,Season 1,22.3,1.3,22.43476486,67.27893829
+91,CARANGIDS,Decapterusrusselli,Russell`s sead,ખોટા બાંગળા ,16.8,27.4,22.1,Group 3,30/01/2011,1,Season 1,22.4,2.1,22.47633934,67.23715973
+91,CARANGIDS,Decapterusrusselli,Russell`s sead,ખોટા બાંગળા ,16.8,27.4,22.1,Group 3,1/30/2019,2,Season 1,22.1,1.7,22.35161781,67.36248016
+91,CARANGIDS,Decapterusrusselli,Russell`s sead,ખોટા બાંગળા ,16.8,27.4,22.1,Group 3,14/02/2012,2,Season 1,22.1,4.1,22.43476486,67.27893829
+13,SHRIMP,Parapenaeopsissculptilis,Rainbow prawn,પટ્ટા ,14,29,21.5,Group 3,30/01/2011,1,Season 1,22.6,2,22.43476486,67.27893829
+13,SHRIMP,Parapenaeopsissculptilis,Rainbow prawn,પટ્ટા ,14,29,21.5,Group 3,2/28/2012,2,Season 1,21.2,3.3,22.51791382,67.19538879
+13,SHRIMP,Parapenaeopsissculptilis,Rainbow prawn,પટ્ટા ,14,29,21.5,Group 3,2/8/2019,1,Season 1,21.6,0.7,22.51791382,67.19538879
+4,SHRIMP,Solenoceracrassicornis,Coastal mud prawn,"લાલ કોલમી, ગોઈનર  ",13.8,29.1,21.45,Group 3,14/01/2011,1,Season 1,21.4,1.9,22.51791382,67.19538879
+4,SHRIMP,Solenoceracrassicornis,Coastal mud prawn,"લાલ કોલમી, ગોઈનર  ",13.8,29.1,21.45,Group 3,2/8/2019,2,Season 1,21.3,0.7,22.51791382,67.19538879
+4,SHRIMP,Solenoceracrassicornis,Coastal mud prawn,"લાલ કોલમી, ગોઈનર  ",13.8,29.1,21.45,Group 3,2/8/2019,2,Season 1,21.4,0.7,22.47633934,67.23715973
+102,Other fish,Harpodon nehereus,Bombay fish,"બુંમલા,દાતણયા",16.8,26,21.4,Group 3,14/01/2011,1,Season 1,21.4,1.7,22.47633934,67.23715973
+102,Other fish,Harpodon nehereus,Bombay fish,"બુંમલા,દાતણયા",16.8,26,21.4,Group 3,2/28/2012,2,Season 1,21.5,2.2,22.47633934,67.23715973
+102,Other fish,Harpodon nehereus,Bombay fish,"બુંમલા,દાતણયા",16.8,26,21.4,Group 3,2/28/2012,2,Season 1,21.5,2,22.43476486,67.27893829
+27,TUNA,Katsuwonuspelamis,Skipjack tuna,ગેદરા/પોટલા ,13.3,29,21.15,Group 3,14/01/2011,1,Season 1,21.8,1.7,22.43476486,67.27893829
+27,TUNA,Katsuwonuspelamis,Skipjack tuna,ગેદરા/પોટલા ,13.3,29,21.15,Group 3,5/4/2010,1,Season 2,29,0.6,22.0190258,67.69667816
+27,TUNA,Katsuwonuspelamis,Skipjack tuna,ગેદરા/પોટલા ,13.3,29,21.15,Group 3,5/4/2010,1,Season 2,29.1,0.6,21.47856331,68.23973846
+26,TUNA,Auxisthazard,Frigate mackerel,ગેદરી ,13.8,27.1,20.45,Group 4,06/01/2011,1,Season 1,21.9,3,22.43476486,67.27893829
+26,TUNA,Auxisthazard,Frigate mackerel,ગેદરી ,13.8,27.1,20.45,Group 4,22/01/2012,2,Season 1,20.3,1.5,22.39319038,67.32070923
+26,TUNA,Auxisthazard,Frigate mackerel,ગેદરી ,13.8,27.1,20.45,Group 4,22/01/2012,2,Season 1,20.3,1.6,21.72800636,67.9890976
+62,RAYS,Manta birostis,Manta ray,કારજ,20,20,20,Group 4,18/01/2011,1,Season 1,21.9,0,22.51791382,67.19538879
+62,RAYS,Manta birostis,Manta ray,કારજ,20,20,20,Group 4,22/01/2011,2,Season 1,20.3,2,22.43476486,67.27893829
+62,RAYS,Manta birostis,Manta ray,કારજ,20,20,20,Group 4,22/01/2011,2,Season 1,20.3,2,22.39319038,67.32070923
+71,SAIL FISH,Xiphiasgladius,Sword fish ,સૂરજમુખી ,18,22,20,Group 4,18/01/2011,1,Season 1,21.9,0,22.47633934,67.23715973
+71,SAIL FISH,Xiphiasgladius,Sword fish ,સૂરજમુખી ,18,22,20,Group 4,,,,,,,
+71,SAIL FISH,Xiphiasgladius,Sword fish ,સૂરજમુખી ,18,22,20,Group 4,,,,,,,
+31,CEPHALOPODS,Sepia pharaonis,Cuttlefish,માકુલ ,15,25,20,Group 4,17/01/2011,1,Season 1,24.5,1.4,20.81337738,68.90812683
+31,CEPHALOPODS,Sepia pharaonis,Cuttlefish,માકુલ ,15,25,20,Group 4,,,,,,,
+31,CEPHALOPODS,Sepia pharaonis,Cuttlefish,માકુલ ,15,25,20,Group 4,,,,,,,
+112,Other fish,Remora remora,Sucker fish,મેઘર,11.7,28.2,19.95,Group 4,15/03/2011,1,Season 1,27.3,0.3,22.31004333,67.40425873
+112,Other fish,Remora remora,Sucker fish,મેઘર,11.7,28.2,19.95,Group 4,,,,,,,
+112,Other fish,Remora remora,Sucker fish,મેઘર,11.7,28.2,19.95,Group 4,,,,,,,
+41,SHARK,Carcharhinuslimbatus,Black tip shark,મગરા ,15,24,19.5,Group 4,14/01/2010,1,Season 1,23.4,1.9,22.51791382,67.19538879
+41,SHARK,Carcharhinuslimbatus,Black tip shark,મગરા ,15,24,19.5,Group 4,,,,,,,
+41,SHARK,Carcharhinuslimbatus,Black tip shark,મગરા ,15,24,19.5,Group 4,,,,,,,
+44,SHARK,Mustelusmosis,Arabian smooth hound,બોખો ,9.8,27.3,18.55,Group 4,22/12/2015,2,Season 2 ,24.6,0,22.39319038,67.32070923
+44,SHARK,Mustelusmosis,Arabian smooth hound,બોખો ,9.8,27.3,18.55,Group 4,,,,,,,
+44,SHARK,Mustelusmosis,Arabian smooth hound,બોખો ,9.8,27.3,18.55,Group 4,,,,,,,
+111,Other fish,Mugil cephalus,Grey mullet,"બોય,ગાંધિયો",10,25,17.5,Group 4,05/01/2010,1,Season 1,24.1,1.1,22.43476486,67.27893829
+111,Other fish,Mugil cephalus,Grey mullet,"બોય,ગાંધિયો",10,25,17.5,Group 4,,,,,,,
+111,Other fish,Mugil cephalus,Grey mullet,"બોય,ગાંધિયો",10,25,17.5,Group 4,,,,,,,
+73,EEL,Muraenesoxcinereus,Silver conger eel,વામ ,11.6,23.2,17.4,Group 4,05/01/2010,1,Season 1,24.2,1.3,22.39319038,67.32070923
+73,EEL,Muraenesoxcinereus,Silver conger eel,વામ ,11.6,23.2,17.4,Group 4,,,,,,,
+73,EEL,Muraenesoxcinereus,Silver conger eel,વામ ,11.6,23.2,17.4,Group 4,,,,,,,
+18,MACKEREL,Rastrelligerkanagurta,Indian mackerel,મલબારી બાંગળી ,17,17,17,Group 4,,,,,,,
+18,MACKEREL,Rastrelligerkanagurta,Indian mackerel,મલબારી બાંગળી ,17,17,17,Group 4,,,,,,,
+18,MACKEREL,Rastrelligerkanagurta,Indian mackerel,મલબારી બાંગળી ,17,17,17,Group 4,,,,,,,
+16,RIBBON FISH,Trichiuruslepturus,Grey head hair tail,"બગા, બ્લેક બગા  ",10.1,23.2,16.65,Group 4,14/01/2010,1,Season 1,23.8,1.8,22.35161781,67.36248016
+16,RIBBON FISH,Trichiuruslepturus,Grey head hair tail,"બગા, બ્લેક બગા  ",10.1,23.2,16.65,Group 4,,,,,,,
+16,RIBBON FISH,Trichiuruslepturus,Grey head hair tail,"બગા, બ્લેક બગા  ",10.1,23.2,16.65,Group 4,,,,,,,
+37,LOBSTER,Penulirushormarus,Spiny lobster,ટીટણ,15.5,15.5,15.5,Group 5,14/01/2010,1,Season 1,23.9,1.4,22.31004333,67.40425873
+67,CRAB,Portunuspelagicus,Blue crab,બ્લુ કરચલો,15,15,15,Group 5,,,,,,,
+119,Other fish,Seriolina nigrofasciata,Butter fish,પોચા,5.1,24.7,14.9,Group 5,,,,,,,
+110,Other fish,Rachycetron canadum,Cobia,સકારો,8.1,19.8,13.95,Group 5,,,,,,,
+19,MACKEREL,Megalaspiscordyla,Horse mackerel,બાંગડા   ,10.6,16.6,13.6,Group 5,,,,,,,
+96,Sole Fish,Cynoglossus lingua,Long tounge sole,મોટી જીભ,8.8,18.2,13.5,Group 5,,,,,,,
+36,LOBSTER,Penuliruspolyphagus,Rock lobster,ટીટણ ,8,18,13,Group 5,,,,,,,
+30,TUNA,Thunnusobesus,Big eye tuna,સેરવા,12,13.9,12.95,Group 5,,,,,,,
+35,CEPHALOPODS,Loligaduvaucelli,Squid,નરસિંગા  ,10.5,12.9,11.7,Group 5,,,,,,,
+12,SHRIMP,Penaeusjaponicus,Kuruma prawn,મીડીયમ પટ્ટા ,10,10,10,Group 6,,,,,,,
+72,EEL,Congresoxtalabonoides,Indian pike conger ,વામ ,5.4,11.7,8.55,Group 6,,,,,,,
+14,SHRIMP,Acetesindicus,Paste shrimp,જવલો ,30,40,35,Group 1,06/03/2023,Afternoon,Season 1,32,1.2,20.6886558532714,69.033447265625
+14,SHRIMP,Acetesindicus,Paste shrimp,જવલો ,30,40,35,Group 1,05/11/2019,Afternoon,Season 2,31.3,7.1,20.64708138,69.07522583
+14,SHRIMP,Acetesindicus,Paste shrimp,જવલો ,30,40,35,Group 1,05/11/2019,Afternoon,Season 2,31.3,5.6,20.6055088,69.11699677
+6,SHRIMP,Metapenaeusaffinis,Indian prawn,મીડીયમ ,32,35,33.5,Group 1,06/03/2023,Afternoon,Season 1,31.3,0.5,22.4347648620605,67.278938293457
+6,SHRIMP,Metapenaeusaffinis,Indian prawn,મીડીયમ ,32,35,33.5,Group 1,12/10/2019,Morning,Season 1,32.2,3.3,21.22911835,68.49038696
+6,SHRIMP,Metapenaeusaffinis,Indian prawn,મીડીયમ ,32,35,33.5,Group 1,12/10/2019,Morning,Season 1,32.1,2.5,21.18754387,68.5321579
+38,LOBSTER,Penulirusornatus,Spiny lobster,ટીટણ,28,34,31,Group 1,06/03/2023,Afternoon,Season 1,33,0.9,20.8965263366699,68.8245773315429
+38,LOBSTER,Penulirusornatus,Spiny lobster,ટીટણ,28,34,31,Group 1,05/11/2019,Afternoon,Season 2,30.9,3.1,20.93810081,68.7828064
+38,LOBSTER,Penulirusornatus,Spiny lobster,ટીટણ,28,34,31,Group 1,05/11/2019,Afternoon,Season 2,31.1,1.3,20.52235985,69.20054626
+29,TUNA,Thunnustoggol,Long tail tuna,સેરવા ,29.5,30.5,30,Group 1,06/03/2023,Afternoon,Season 1,31.5,0.7,21.6448593139648,68.0726470947265
+29,TUNA,Thunnustoggol,Long tail tuna,સેરવા ,29.5,30.5,30,Group 1,22/10/2018,Afternoon,Season 2,29.9,0.4,21.68643188,68.03086853
+29,TUNA,Thunnustoggol,Long tail tuna,સેરવા ,29.5,30.5,30,Group 1,22/10/2018,Afternoon,Season 2,29.9,0.4,21.64485931,68.07264709
+,SHRIMP,Acetesindicus,Paste shrimp,જવલો ,30,40,35,Group 1,01/01/2023,Morning,Season 1,30,0.7,20.6886558532714,69.033447265625
+,SHRIMP,Acetesindicus,Paste shrimp,જવલો ,30,40,35,Group 1,11/10/2019,Afternoon,Season 2,31.7,0.8,20.97967529,68.74103546
+,SHRIMP,Acetesindicus,Paste shrimp,જવલો ,30,40,35,Group 1,11/10/2019,Afternoon,Season 2,31.5,0.7,20.93810081,68.7828064
+,SHRIMP,Metapenaeusaffinis,Indian prawn,મીડીયમ ,32,35,33.5,Group 1,01/01/2023,Morning,Season 1,32,1.7,22.4347648620605,67.278938293457
+,SHRIMP,Metapenaeusaffinis,Indian prawn,મીડીયમ ,32,35,33.5,Group 1,12/10/2019,Morning,Season 2,32.2,2.4,21.1459713,68.57393646
+,SHRIMP,Metapenaeusaffinis,Indian prawn,મીડીયમ ,32,35,33.5,Group 1,12/10/2019,Morning,Season 2,32.1,2.6,21.10439682,68.6157074
+,LOBSTER,Penulirusornatus,Spiny lobster,ટીટણ,28,34,31,Group 1,01/01/2023,Morning,Season 1,29,1.2,20.8965263366699,68.8245773315429
+,LOBSTER,Penulirusornatus,Spiny lobster,ટીટણ,28,34,31,Group 1,16/10/2018,Morning,Season 2,30.9,0.5,21.39541435,68.32328796
+,LOBSTER,Penulirusornatus,Spiny lobster,ટીટણ,28,34,31,Group 1,03/06/2010,Afternoon,Season 2,31,1.3,22.43476486,67.27893829
+,TUNA,Thunnustoggol,Long tail tuna,સેરવા ,29.5,30.5,30,Group 1,01/01/2023,Morning,Season 1,30,1.3,21.6448593139648,68.0726470947265
+,TUNA,Thunnustoggol,Long tail tuna,સેરવા ,29.5,30.5,30,Group 1,02/10/2010,Morning,Season 2,29.9,2.7,22.43476486,67.27893829
+,TUNA,Thunnustoggol,Long tail tuna,સેરવા ,29.5,30.5,30,Group 1,13/10/2015,Morning,Season 2,29.9,0.2,22.22689438,67.48780823
+65,CRAB,Charybdis crucuata,Cross crab,લાલ કરચલો ,23.4,28.6,26,Group 2,17/12/2018,2,Season 2,26.6,0.7,21.27069283,68.44861603
